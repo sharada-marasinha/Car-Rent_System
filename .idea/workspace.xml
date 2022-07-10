@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd82647b-62e8-483d-97c1-8e01bfb5a099" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarRent/entity/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarRent/entity/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CarRent/entity/Employer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <workItem from="1657260166324" duration="2935000" />
       <workItem from="1657301220249" duration="291000" />
       <workItem from="1657440296102" duration="5966000" />
-      <workItem from="1657464497687" duration="485000" />
+      <workItem from="1657464497687" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project With Config">
       <created>1657260425124</created>
